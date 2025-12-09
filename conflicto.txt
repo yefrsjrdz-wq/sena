@@ -1,2 +1,2 @@
-versiónA1
-versiónA2
+versión original
+versión alterada
