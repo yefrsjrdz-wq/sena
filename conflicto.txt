@@ -1,2 +1,2 @@
-VERSION1.0
+VERSION DE PRUEBAS
 versión alterada
