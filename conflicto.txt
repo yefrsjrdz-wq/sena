@@ -1,2 +1,2 @@
-VERSION1.0
-versión alterada
+Version Original
+Version Generica
